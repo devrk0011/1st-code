@@ -1,0 +1,8 @@
+echo -n "enter first number"
+read a
+echo -n "enter sec number"
+read b
+sum=$((a+b))
+echo $sum
+
+
